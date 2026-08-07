@@ -5,13 +5,13 @@
 
 - 👨🏻‍💻 I’m currently studying **Information Systems**
 
-- 🔍 **Data Analyst/Engineer** & **Business Analyst** & **Project/Product Manager**
+- 🔍 **Analytics Engineer** & **Data/Business Analyst** & **Project/Product Manager**
 
 - 💬 Ask me something about **SQL, Python, Power BI, and Excel**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
-- 🔭 My Portfolio: **[Portfolio Website](https://dquanbui.github.io/PortfolioWebsite/)**
+- 🔭 My Portfolio: **[Portfolio Website](https://dquanbui.github.io/Portfolio_Website/)**
 
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
